@@ -4,4 +4,4 @@ Description: The webpage has been refactored to meet the specified guidelines. T
 <b>
 Screenshot
 <b>
-Website link:
+Website link: file:///C:/Users/dtruo/bootcamp/Challenges/Challenge1/index.html
