@@ -2,6 +2,6 @@
 Horiseo Webpage
 Description: The webpage has been refactored to meet the specified guidelines. The use of semantic html and broken navigation button has been resolved.
 <b>
-Screenshot
+![Alt text](/ScreenshotHW1.png)
 <b>
-Website link: file:///C:/Users/dtruo/bootcamp/Challenges/Challenge1/index.html
+Website link: https://dtruong777.github.io/Challenge1/
